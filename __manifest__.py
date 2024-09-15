@@ -11,9 +11,9 @@
         'views/menu.xml',
 
     ],
-    'assets':{
-        'web.assets_backend':['hospital/static/src/css/hospital.css']
-    },
+    # 'assets':{
+    #     'web.assets_backend':['']
+    # },
     'installable': True,
     'application':True,
 }
